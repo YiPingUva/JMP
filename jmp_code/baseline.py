@@ -1,10 +1,9 @@
 """
-Disclaimer:
+Reference:
 This code is adapted from the implementation provided by Marlon Azinovic, Luca Gaegauf, and Simon Scheidegger (2022).
 The supporting files nn_utils.py and utils.py are included verbatim as provided by the authors.
 
-Reference:
-Azinovic M, Gaegauf L, Scheidegger S. "Deep equilibrium nets." International Economic Review. 2022 Nov;63(4):1471-1525.
+Cite: Azinovic M, Gaegauf L, Scheidegger S. "Deep equilibrium nets." International Economic Review. 2022 Nov;63(4):1471-1525.
 URL: https://onlinelibrary.wiley.com/doi/epdf/10.1111/iere.12575
 
 Description:
