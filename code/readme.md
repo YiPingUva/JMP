@@ -25,7 +25,8 @@ Step 4: Continue Training
   
 Note: Monitor the cost function and adjust hyperparameters of neural networks as necessary to determine the appropriate stopping point for training.
 
->> Simulating Data for the Collateral Economy\
+>> Simulating Data for the Collateral Economy
+
 	1)	To simulate data using trained neural networks saved in Collateral_economy/output/final_baseline, set plot_epi_length to the desired number of simulation periods. For example, the paper uses 500,000 periods (edit this on line 672 of baseline.py).\
 	2)	Run the script: >python baseline.py\
 	3)	Results will be saved in Collateral_economy/output/restart_baseline.
