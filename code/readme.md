@@ -1,7 +1,7 @@
-This repository provides the codes for replicating the results presented in the paper. Follow the steps below to train neural networks and simulate data for the collateral economy and bond economy.\\
+This repository provides the codes for replicating the results presented in the paper. Follow the steps below to train neural networks and simulate data for the collateral economy and bond economy.\
 
-Training Neural Networks for the Collateral Economy
-Step 1: Solve for Steady-State Variables
+Training Neural Networks for the Collateral Economy\
+Step 1: Solve for Steady-State Variables\
 	1	Navigate to the folder Steady_state_solver_matlab/collateral_economy.
 	2	Run the MATLAB file steady_state_solver_be.mlx.
 	3	The steady-state data will be saved as xuss_ce.mat.
