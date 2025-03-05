@@ -31,4 +31,4 @@ To replicate results for the bond economy, follow the same steps as above, but u
 	2)	Bond_economy\
 
 Questions\
-If you have any questions about the code, please reach out to Yi Ping at yp7ec@virginia.edu or yi.ping@eruni.org.\
+If you have any questions about the code, please reach out to Yi Ping at yp7ec@virginia.edu or yi.ping@eruni.org.
