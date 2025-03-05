@@ -1,4 +1,4 @@
-This repository provides the codes for replicating the results presented in the paper. Follow the steps below to train neural networks and simulate data for the collateral economy and bond economy.
+This repository provides the codes for replicating the results presented in the paper. Follow the steps below to train neural networks and simulate data for the collateral economy and bond economy.\\
 
 Training Neural Networks for the Collateral Economy
 Step 1: Solve for Steady-State Variables
