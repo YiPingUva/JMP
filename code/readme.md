@@ -16,7 +16,7 @@ Step 3: Train Neural Networks\
 	1)	Run the Python script to start the first training schedule: > python baseline.py --train_from_scratch\
 	2)	The results will be saved in Collateral_economy/output/1st_baseline.
  
-Step 4: Continue Training
+Step 4: Continue Training\
 	1)	After completing the first training schedule:\
 		a. Uncomment lines 1294–1301 in baseline.py to start the second training schedule.\
 	2)	Results will be saved as follows:\
