@@ -33,9 +33,7 @@ Note: Monitor the cost function and adjust hyperparameters of neural networks as
 
 >> Replicating Results for the Bond Economy
 
-To replicate results for the bond economy, follow the same steps as above, but use the files located in:\
-	1)	Steady_state_solver_matlab/bond_economy\
-	2)	Bond_economy
+To replicate results for the bond economy, follow the same steps as above, but use the files located in /Steady_state_solver_matlab/bond_economy/Bond_economy
 
 >> Questions
 
