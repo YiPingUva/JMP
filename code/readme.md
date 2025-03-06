@@ -23,7 +23,7 @@ Step 4: Continue Training\
 		a. Intermediate results: Collateral_economy/output/2nd_baseline.\
 		b. Final results: Collateral_economy/output/final_baseline (after completing episodes specified on line 1296).
   
-Note: Monitor the cost function and adjust hyperparameters of neural networks as necessary to determine the appropriate stopping point for training.
+Note: Monitor the cost function and adjust hyperparameters of neural networks as needed to determine the appropriate stopping point for training.
 
 >> Simulating Data for the Collateral Economy
 
